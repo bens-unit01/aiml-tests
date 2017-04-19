@@ -1,0 +1,10 @@
+
+
+
+
+Text to speech     http://pythonprogramminglanguage.com/text-to-speech/ 
+dependance : 
+python -m pip install pyttsx
+python -m pip install pywin32
+
+

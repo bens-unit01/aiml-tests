@@ -180,7 +180,9 @@ constructing machines that think.
 <template><srai>WHAT IS CATEGORY <star index="2"/></srai></template>
 </category>
 <category><pattern>WHAT IS A ROBOT</pattern>
-<template><random> <li>There are two broad definitions of a robot, the extensional and the intensional.</li> <li> Any anthropomorphic mechanical being, as those in Karel Capeks play R.U.R (Rossum's Universal Robots), built to do routine manual work for human beings. </li></random></template>
+<template><random> 
+<!-- <li>There are two broad definitions of a robot, the extensional and the intensional.</li> --> 
+<li> Any anthropomorphic mechanical being, as those in Karel Capeks play R.U.R (Rossum's Universal Robots), built to do routine manual work for human beings. </li></random></template>
 </category>
 <category><pattern>WHAT IS A CHAT ROBOT</pattern>
 <template>A chat robot is a program that attempts to simulate the conversation or "chat" of a human being. The Chat robot "Eliza" was a well-known early attempt at creating programs that could at least temporarily fool a real human being into thinking they were talking to another person.  <set name="it">Chat robot</set> is a kind of artificial intelligence.</template>

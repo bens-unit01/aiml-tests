@@ -1629,7 +1629,7 @@
 <template><formal><set name="she"> Jennifer Aniston</set></formal>is a cute actress on Friends.</template>
 </category>
 <category><pattern>WHO IS POKEMON</pattern>
-<template>A media franchise owned by Ninendo. It is a contraction of "poket monster."</template>
+<template>A media franchise owned by Nintendo. It is a contraction of "poket monster."</template>
 </category>
 <category><pattern>WHO IS PASCAL</pattern>
 <template><formal><set name="he">Pascal</set></formal>was a French mathematician who discovered Pascal's Triangle.</template>
